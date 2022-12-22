@@ -13,3 +13,7 @@ body {
 .explore-section{
     background-color: #f8f9fa;
 }
+.c-opacity{
+    background-color: gray;
+    opacity: 0.8;
+}
